@@ -94,7 +94,6 @@ header {
     padding: 2%;
 }
 .text-box a {
-    font-style: italic;
     font-size:clamp(11px,3vw,22px);
     font-weight: 400;
     color: #ffffff;
@@ -229,6 +228,7 @@ label{
     display: flex;
     padding: 1em;
     margin-top: 2%;
+    justify-content: center;
     text-align: center;
     font-weight: 400;
     color: #ffffff;
